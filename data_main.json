@@ -19,7 +19,7 @@
     {
      "name": "government",
      "children": [
-      {"name": "Oregon Department of Motor Vehicles", "value": 1000
+      {"name": "Oregon Department of Motor Vehicles", "value": 1000},
      ]
     }
    ]
