@@ -241,7 +241,7 @@
                             "children": 
                                 [
                                     {"name": "Apple", "value": 2750},
-                                    {"name": "Network Solutions", "value": 5730},
+                                    {"name": "Network", "value": 5730},
                                     {"name": "Ubuntu", "value": 20000}
 
                                 ]
