@@ -5,28 +5,21 @@
    "name": "poor security",
    "children": [
     {
-     "name": "cluster",
+     "name": "healthcare",
      "children": [
-      {"name": "AgglomerativeCluster", "value": 3938},
-      {"name": "CommunityStructure", "value": 3812},
-      {"name": "HierarchicalCluster", "value": 6714},
-      {"name": "MergeEdge", "value": 743}
+      {"name": "Accendo Insurance Co.", "value": 175.35},
      ]
     },
     {
-     "name": "graph",
+     "name": "financial",
      "children": [
-      {"name": "BetweennessCentrality", "value": 3534},
-      {"name": "LinkDistance", "value": 5731},
-      {"name": "MaxFlowMinCut", "value": 7840},
-      {"name": "ShortestPaths", "value": 5914},
-      {"name": "SpanningTree", "value": 3416}
+      {"name": "Automatic Data Processing", "value": 125},
      ]
     },
     {
-     "name": "optimization",
+     "name": "government",
      "children": [
-      {"name": "AspectRatioBanker", "value": 7074}
+      {"name": "Oregon Department of Motor Vehicles", "value": 1000
      ]
     }
    ]
