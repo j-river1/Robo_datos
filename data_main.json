@@ -42,16 +42,43 @@
       {"name": "Triple-S Salud, Inc.", "value": 3980}          
      ]
     },
+    
     {
      "name": "financial",
      "children": [
-      {"name": "Automatic Data Processing", "value": 1250}
+      {"name": "BNY Mellon Shareowner Services", "value": 125000},
+      {"name": "Citigroup", "value": 39000},
+      {"name": "Educational Credit Management Corp", "value": 33000},
+      {"name": "JP Morgan Chase", "value": 26000},
+      {"name": "Morgan Stanley Smith Barney", "value": 340}      
+     ]
+    },
+    
+    {
+     "name": "military",
+     "children": [
+      {"name": "US Dept of Defense", "value": 720},
+      {"name": "US Military", "value": 760000}   
+     ]
+    },
+    
+    {
+     "name": "telecoms",
+     "children": [
+      {"name": "T-Mobile, Deutsche Telecom", "value": 170000}
+     ]
+    },  
+    {
+     "name": "academic",
+     "children": [
+      {"name": "University of Utah Hospitals & Clinics", "value": 2200}
      ]
     },
     {
      "name": "government",
      "children": [
-      {"name": "Oregon Department of Motor Vehic", "value": 10000}
+      {"name": "California Department of Child Support Services", "value": 8000},
+      {"name": "UK Revenue & Customs", "value": 250000}
      ]
     }
    ]
