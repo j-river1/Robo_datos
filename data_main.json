@@ -29,25 +29,7 @@
                     ]
             }
             
-            {
-                "name": "accidentally published",
-                "children": 
-                    [
-                        {
-                            "name": "healthcare",
-                            "children": 
-                                [
-                                    {"name1": "Accendo Insurance Co. ", "value": 1750}
-                                ]
-                                
-                                
-                        }
-                        
             
-                    ]
-            
-            
-            }
             
 
      
