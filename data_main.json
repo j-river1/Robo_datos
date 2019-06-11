@@ -237,7 +237,7 @@
                                 ]
                         },
                         {
-                            "name": "tech",
+                            "name": "tech2",
                             "children": 
                                 [
                                     {"name": "Apple", "value": 2750},
