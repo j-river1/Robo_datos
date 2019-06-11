@@ -29,7 +29,7 @@
                     ]
             }
             {
-                "name": "poor security",
+                "name": "accidentally published",
                 "children": 
                     [
                         {   "name": "healthcare",
@@ -49,9 +49,65 @@
                             "name": "government",
                             "children": 
                                 [
-                                    {"name": "Oregon Department of Motor Vehic", "value": 10000}
+                                    {"name": "Chile Ministry Of Education", "value": 60000},
+                                    {"name": "Jefferson County", "value": 16000},
+                                    {"name": "Norwegian Tax Authorities", "value": 39500},
+                                    {"name": "State of Texas", "value": 35000},
+                                    {"name": "US Law Enforcement", "value": 12340}
+                                    
+                           
+                                ]
+                        },
+                        {
+                            "name": "military",
+                            "children": 
+                                [
+                                    {"name": "Stratfor", "value": 9350},
+                                    {"name": "US Army, "value": 500}
+                                    
+                                ]
+                        },
+                        {
+                            "name": "academic",
+                            "children": 
+                                [
+                                    {"name": "Yale University", "value": 430}
+                                ]
+                        },
+                        {
+                            "name": "tech, retail",
+                            "children": 
+                                [
+                                    {"name": "Apple", "value": 123670}
+                                ]
+                        },
+                        {
+                            "name": "telecoms",
+                            "children": 
+                                [
+                                    {"name": "TerraCom & YourTel", "value": 1700}
+                                ]
+                        },
+                        {
+                            "name": "web",
+                            "children": 
+                                [
+                                    {"name": "AOL", "value": 200000},
+                                    {"name": "Facebook", "value": 60000},
+                                    {"name": "Formspring", "value": 60000},
+                                    {"name": "LinkedIn, eHarmony, Last.fm", "value": 80000}
+                                ]
+                        },
+                        {
+                            "name": "web, military",
+                            "children": 
+                                [
+                                    {"name": "Militarysingles.com", "value": 1630},
+
                                 ]
                         }
+                        
+                        
                     ]
             }
      
