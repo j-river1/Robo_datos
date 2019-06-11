@@ -70,6 +70,23 @@
                                 [
                                     {"name": "Apple", "value": 123680}
                                 ]
+                        },
+                        {
+                            "name": "telecoms",
+                            "children": 
+                                [
+                                    {"name": "TerraCom & YourTel", "value": 1700}
+                                ]
+                        },
+                        {
+                            "name": "web",
+                            "children": 
+                                [
+                                    {"name": "AOL", "value": 200000},
+                                    {"name": "Facebook", "value": 60000},
+                                    {"name": "Formspring", "value": 4200},
+                                    {"name": "Formspring", "value": 80000}
+                                ]
                         }
                     ]
             }
