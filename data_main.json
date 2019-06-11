@@ -1,168 +1,28 @@
-{
- "name": "flare",
- "children": [
-  {
-   "name": "poor security",
-   "children": [
-    {"name": "healthcare",
-     "children": [
-      {"name": "Accendo Insurance Co. ", "value": 1750}
-     ]
-    },
     {
-     "name": "financial",
+     "name": "flare",
      "children": [
-      {"name": "Automatic Data Processing", "value": 1250}
-     ]
-    },
-    {
-     "name": "government",
-     "children": [
-      {"name": "Oregon Department of Motor Vehic", "value": 10000}
-     ]
+      {
+       "name": "poor security",
+       "children": [
+        {"name": "healthcare",
+         "children": [
+          {"name": "Accendo Insurance Co. ", "value": 1750}
+         ]
+        },
+        {
+         "name": "financial",
+         "children": [
+          {"name": "Automatic Data Processing", "value": 1250}
+         ]
+        },
+        {
+         "name": "government",
+         "children": [
+          {"name": "Oregon Department of Motor Vehic", "value": 10000}
+         ]
+        }
+       ]
+      }
+     
+      ]
     }
-   ]
-  },
-  {
-   "name": "lost / media",
-   "children": [
-    {"name": "healthcare",
-     "children": [
-      {"name": "Affinity Health Plan", "value": 3440},
-      {"name": "Blue Cross Blue Shield", "value": 10230},
-      {"name": "Emergency Healthcare Physicians", "value": 1800},
-      {"name": "Health Net ", "value": 15000},
-      {"name": "Health Net - IBM", "value": 19000},
-      {"name": "Lincoln Medical & Mental Health", "value": 1300},
-      {"name": "Memorial Healthcare System", "value": 1020},
-      {"name": "Nemours Foundation", "value": 10550},
-      {"name": "New York City Health", "value": 17000},
-      {"name": "NHS", "value": 83000},
-      {"name": "South Shore Hospital, Massachusetts", "value": 8000},
-      {"name": "Triple-S Salud, Inc.", "value": 3980}          
-     ]
-    },
-    
-    {
-     "name": "financial",
-     "children": [
-      {"name": "BNY Mellon Shareowner Services", "value": 125000},
-      {"name": "Citigroup", "value": 39000},
-      {"name": "Educational Credit Management Corp", "value": 33000},
-      {"name": "JP Morgan Chase", "value": 26000},
-      {"name": "Morgan Stanley Smith Barney", "value": 340}      
-     ]
-    },
-    
-    {
-     "name": "military",
-     "children": [
-      {"name": "US Dept of Defense", "value": 720},
-      {"name": "US Military", "value": 760000}   
-     ]
-    },
-    
-    {
-     "name": "telecoms",
-     "children": [
-      {"name": "T-Mobile, Deutsche Telecom", "value": 170000}
-     ]
-    },  
-    {
-     "name": "academic",
-     "children": [
-      {"name": "University of Utah Hospitals & Clinics", "value": 2200}
-     ]
-    },
-    {
-     "name": "government",
-     "children": [
-      {"name": "California Department of Child Support Services", "value": 8000},
-      {"name": "UK Revenue & Customs", "value": 250000}
-     ]
-    }
-   ]
-  },
-  {
-   "name": "hacked",
-   "children": [
-    {"name": "healthcare",
-     "children": [
-      {"name": "Ankle & foot Center of Tampa Bay", "value": 1560},
-      {"name": "Puerto Rico Department of Health", "value": 5150},
-      {"name": "Emergency Healthcare Physicians", "value": 1800},
-      {"name": "Seacoast Radiology", "value": 2320},
-      {"name": "Southern California Medical-Legal", "value": 3000},
-      {"name": "Virginia Prescription Monitoring Program", "value": 532}       
-     ]
-    },
-    
-    {
-     "name": "financial",
-     "children": [
-      {"name": "BNY Mellon Shareowner Services", "value": 125000},
-      {"name": "Citigroup", "value": 39000},
-      {"name": "Educational Credit Management Corp", "value": 33000},
-      {"name": "JP Morgan Chase", "value": 26000},
-      {"name": "Morgan Stanley Smith Barney", "value": 340}      
-     ]
-    },
-    
-    {
-     "name": "military",
-     "children": [
-      {"name": "US Dept of Defense", "value": 720},
-      {"name": "US Military", "value": 760000}   
-     ]
-    },
-    
-    {
-     "name": "telecoms",
-     "children": [
-      {"name": "AT&T", "value": 1140},
-      {"name": "KDDI", "value": 40000},
-      {"name": "KT Corp", "value": 87000}
-     ]
-    },  
-    {
-     "name": "academic",
-     "children": [
-      {"name": "Ohio State University", "value": 7600},
-      {"name": "University of California Berkeley", "value": 1600},
-      {"name": "University of Wisconsin - Milwaukee", "value": 730},
-     ]
-    },
-    {
-     "name": "government",
-     "children": [
-      {"name": "San Francisco Public Utilities Commission", "value": 1800},
-      {"name": "South Africa police", "value": 160},
-      {"name": "Washington State court system", "value": 1600},
-      
-     ]
-    }    
-   ]
-  },
-  {
-   "name": "inside job, hacked",
-   "children": []
-  },
-  {
-   "name": "accidentally published",
-   "children": []
-  },
-  {
-   "name": "lost / stolen computer",
-   "children": []
-  },
-  {
-   "name": "inside job",
-   "children": []
-  },
-  {
-   "name": "lost / stolen media",
-   "children": []
-  }
-
-]
-}
