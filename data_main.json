@@ -245,6 +245,13 @@
                                     {"name": "Ubuntu", "value": 20000}
 
                                 ]
+                        },
+                        {
+                            "name": "tech web ",
+                            "children": 
+                                [
+                                    {"name": "Yahoo", "value": 245000}
+                                ]
                         }
                         
                     ]
