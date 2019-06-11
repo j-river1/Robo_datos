@@ -225,6 +225,16 @@
                                     {"name": "Washington Post", "value": 12700}
 
                                 ]
+                        },
+                        {
+                            "name": "retail",
+                            "children": 
+                                [
+                                    {"name": "Hannaford Brothers Supermarket", "value": 42000},
+                                    {"name": "Restaurant Depott", "value": 2000},
+                                    {"name": "TK / TJ Maxx", "value": 940000}
+
+                                ]
                         }
                     ]
             }
