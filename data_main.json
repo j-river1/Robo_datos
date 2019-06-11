@@ -112,6 +112,13 @@
                                     
                                 ]
                         },
+                        {
+                            "name": "energy",
+                            "children": 
+                                [
+                                    {"name": "Central Hudson Gas & Electric", "value": 1100}                                    
+                                ]
+                        },
                         {   "name": "healthcare",
                             "children": 
                                 [
