@@ -7,19 +7,19 @@
     {
      "name": "healthcare",
      "children": [
-      {"name": "Accendo Insurance Co. ", "value": 175}
+      {"name": "Accendo Insurance Co. ", "value": 1750}
      ]
     },
     {
      "name": "financial",
      "children": [
-      {"name": "Automatic Data Processing", "value": 125}
+      {"name": "Automatic Data Processing", "value": 1250}
      ]
     },
     {
      "name": "government",
      "children": [
-      {"name": "Oregon Department of Motor Vehiclesr", "value": 1000}
+      {"name": "Oregon Department of Motor Vehiclesr", "value": 10000}
      ]
     }
    ]
