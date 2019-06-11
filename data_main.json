@@ -41,15 +41,8 @@
                                 ]
                                 
                                 
-                        },
-                        {
-                            "name": "financial",
-                            "children": 
-                                [
-                                    {"name": "Automatic Data Processing", "value": 1250}
-                                ]
-
                         }
+                        
             
                     ]
             
