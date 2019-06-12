@@ -425,19 +425,19 @@
                                 ]
                         },                        
                         {   
-                            "name": "healthcare  S",
+                            "name": "healthcare",
                             "children": 
                                 [
-                                    {"name": "Affinity Health Plan, Inc.", "value": 3440},
-                                    {"name": "Blue Cross Blue Shield of Tennessee", "value": 10230},
-                                    {"name": "Emergency Healthcare Physicians, Ltd.", "value": 1800},
-                                    {"name": "Health Net ", "value": 15000},
-                                    {"name": "Health Net - IBM", "value": 19000},
-                                    {"name": "Lincoln Medical & Mental Health Center", "value": 1300},
-                                    {"name": "Memorial Healthcare System", "value": 1020},
-                                    {"name": "New York City Health & Hospitals", "value": 17000},
+                                    {"name": "Affinity IHealth Plan, Inc", "value": 3440},
+                                    {"name": "Blue CrossI Blue Shield of Tennessee", "value": 10230},
+                                    {"name": "Emergency IHealthcare Physicians, Ltd.", "value": 1800},
+                                    {"name": "Health NetI ", "value": 15000},
+                                    {"name": "Health Net - IBMI", "value": 19000},
+                                    {"name": "Lincoln Medical  Mental HealthI Center", "value": 1300},
+                                    {"name": "Memorial Healthcare SystemI", "value": 1020},
+                                    {"name": "New York City Health  HospitalsI", "value": 17000},
                                     {"name": "NHS", "value": 83000},
-                                    {"name": "South Shore Hospital Massachusetts", "value": 8000}
+                                    {"name": "South Shore Hospital MassachusettsT", "value": 8000}
                                                                                                             
                                 ]
                         },
