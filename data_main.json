@@ -408,10 +408,10 @@
                             "name": "military, healthcare ",
                             "children": 
                                 [
-                                    {"name": "Tricare", "value": 49010}
+                                    {"name": "Tricarenn", "value": 49010}
                                 ]
                         }
-         ]
+                    ]
             },
             {
                 "name": " losT SoleN media ",
@@ -536,7 +536,7 @@
                                 ]
                         },
                         {
-                            "name": "web gaming ",
+                            "name": "webgaming ",
                             "children": 
                                 [
                                     {"name": "RockYou!", "value": 320000}
