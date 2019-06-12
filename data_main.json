@@ -424,13 +424,6 @@
                                     {"name": "Ohio State University", "value": 7600}                                    
                                 ]
                         },                        
-                        {   
-                            "name": " Healthca",
-                            "children": 
-                                [
-                                    {"name": "Affinity IHealth Plan, Inc", "value": 3440}                                                                                                            
-                                ]
-                        },
                         {
                             "name": "financial",
                             "children": 
@@ -447,11 +440,11 @@
                             "children": 
                                 [
                                     {"name": "California Department of Child Support Services", "value": 8000},
-                                    {"name": "UK Revenue & Customs", "value": 250000}                          
+                                    {"name": "UK Revenue  Customs", "value": 250000}                          
                                 ]
                         },
                         {
-                            "name": "military",
+                            "name": "militarie",
                             "children": 
                                 [
                                     {"name": "US Dept of Defense", "value": 720},
