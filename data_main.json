@@ -425,7 +425,7 @@
                                 ]
                         },                        
                         {   
-                            "name": "healthcareS",
+                            "name": "healthcare",
                             "children": 
                                 [
                                     {"name": "Affinity Health Plan, Inc.", "value": 3440},
@@ -437,9 +437,8 @@
                                     {"name": "Memorial Healthcare System", "value": 1020},
                                     {"name": "New York City Health & Hospitals", "value": 17000},
                                     {"name": "NHS", "value": 83000},
-                                    {"name": "South Shore Hospital, Massachusetts", "value": 8000},
-                                    {"name": "Triple-S Salud, Inc.", "value": 8000}                                    
-                                                                       
+                                    {"name": "South Shore Hospital Massachusetts", "value": 8000},
+                                    {"name": "Triple S Salud Inc", "value": 8000}                                                                                                          
                                 ]
                         },
                         {
