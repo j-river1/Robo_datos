@@ -294,15 +294,8 @@
                             "name": "financial",
                             "children": 
                                 [
-                                    {"name": "Citigroup", "value": 3600},
-                                    {"name": "Data Processors International", "value": 50000},
-                                    {"name": "Global Payments", "value": 15000},
-                                    {"name": "Heartland", "value": 1300000},
-                                    {"name": "RBS Worldpay", "value": 15000},
-                                    {"name": "TD Ameritrade", "value": 63000},
-                                    {"name": "Three Iranian banks", "value": 30000},
-                                    {"name": "US Federal Reserve Bank of Cleveland", "value": 4000}
-                                   
+                                    {"name": "Compass Bank", "value": 10000},
+                                    {"name": "Countrywide Financial Corp", "value": 26000}                                  
                                 ]
                         },
                         {
