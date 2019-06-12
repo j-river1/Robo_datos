@@ -414,17 +414,14 @@
                     ]
             },
             {
-                "name": "hacked",
+                "name": "lost / stolen media ",
                 "children": 
                     [
                         {
                             "name": "academic",
                             "children": 
                                 [
-                                    {"name": "Ohio State University", "value": 7600},
-                                    {"name": "University of California Berkeley", "value": 1600},
-                                    {"name": "University of Wisconsin Milwaukee", "value": 730}
-                                    
+                                    {"name": "Ohio State University", "value": 7600}                                    
                                 ]
                         },
                         {
