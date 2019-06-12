@@ -465,15 +465,8 @@
                             "name": "military",
                             "children": 
                                 [
-                                    {"name": "Stratfor", "value": 9350},
-                                    {"name": "US Army", "value": 500}
-                                ]
-                        },
-                        {
-                            "name": "tech, retail",
-                            "children": 
-                                [
-                                    {"name": "Apple", "value": 123680}
+                                    {"name": "US Dept of Defense", "value": 720},
+                                    {"name": "US Military", "value": 760000}
                                 ]
                         },
                         {
