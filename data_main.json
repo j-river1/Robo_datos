@@ -407,20 +407,10 @@
                     ]
             },
             {
-                "name": "nnjmn n",
+                "name": "d",
                 "children": 
                     [                                             
-                        {
-                            "name": "financial",
-                            "children": 
-                                [
-                                    {"name": "BNY Mellon Shareowner Services": 125000},
-                                    {"name": "Citigroup", "value": 39000},
-                                    {"name": "Educational Credit Management Corp", "value": 33000},
-                                    {"name": "JP Morgan Chase", "value": 26000},
-                                    {"name": "Morgan Stanley Smith Barney", "value": 340}
-                                ]
-                        },
+
                         {
                             "name": "government",
                             "children": 
