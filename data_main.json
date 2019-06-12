@@ -479,10 +479,8 @@
                             "name": "retail",
                             "children": 
                                 [
-                                    {"name": "Hannaford Brothers Supermarket", "value": 42000},
-                                    {"name": "Restaurant Depott", "value": 2000},
-                                    {"name": "TK / TJ Maxx", "value": 940000}
-
+                                    {"name": "Gap Inc", "value": 8000},
+                                    {"name": "Starbucks", "value": 970}
                                 ]
                         },
                         {
