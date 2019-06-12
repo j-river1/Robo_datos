@@ -425,7 +425,7 @@
                                 ]
                         },                        
                         {   
-                            "name": "healthcare",
+                            "name": "healthcareS",
                             "children": 
                                 [
                                     {"name": "Affinity Health Plan, Inc.", "value": 3440},
