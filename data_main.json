@@ -417,13 +417,7 @@
                 "name": "lost/stolen media ",
                 "children": 
                     [
-                        {
-                            "name": "AcadEMImicos",
-                            "children": 
-                                [
-                                    {"name": "Ohio State University", "value": 7600}                                    
-                                ]
-                        },                        
+                                              
                         {
                             "name": "financial",
                             "children": 
