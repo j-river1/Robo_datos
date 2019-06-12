@@ -410,16 +410,7 @@
                 "name": "d",
                 "children": 
                     [                                             
-
-                        {
-                            "name": "government",
-                            "children": 
-                                [
-                                    {"name": "California Department of Child Support Services", "value": 8000},
-                                    {"name": "UK Revenue  Customs", "value": 250000}                          
-                                ]
-                        },
-                        {
+                       {
                             "name": "militarie",
                             "children": 
                                 [
