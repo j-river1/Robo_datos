@@ -334,8 +334,177 @@
                                 ]
                         }                        
                     ]
-            }
+            },
+            {
+                "name": "lost stolen computer",
+                "children": 
+                    [
+                        {
+                            "name": "academic",
+                            "children": 
+                                [
+                                    {"name": "Stanford University", "value": 720},
+                                    {"name": "University of Miami", "value": 21000}                                   
+                                ]
+                        },
+                        {
+                            "name": "energy",
+                            "children": 
+                                [
+                                    {"name": "Central Hudson Gas & Electric", "value": 1100}                                    
+                                ]
+                        },
+                        {   
+                            "name": "healthcare",
+                            "children": 
+                                [
+                                    {"name": "Ankle  foot Center of Tampa Bay", "value": 1560},
+                                    {"name": "Puerto Rico Department of Health", "value": 5150},
+                                    {"name": "Seacoast Radiology PA", "value": 2320},
+                                    {"name": "Southern California Medical-Legal", "value": 3000},
+                                    {"name": "Virginia Prescription Monitoring Program", "value": 532}
+                                    
+                                ]
+                        },
+                        {
+                            "name": "financial",
+                            "children": 
+                                [
+                                    {"name": "Citigroup", "value": 3600},
+                                    {"name": "Data Processors International", "value": 50000},
+                                    {"name": "Global Payments", "value": 15000},
+                                    {"name": "Heartland", "value": 1300000},
+                                    {"name": "RBS Worldpay", "value": 15000},
+                                    {"name": "TD Ameritrade", "value": 63000},
+                                    {"name": "Three Iranian banks", "value": 30000},
+                                    {"name": "US Federal Reserve Bank of Cleveland", "value": 4000}
+                                   
+                                ]
+                        },
+                        {
+                            "name": "government",
+                            "children": 
+                                [
+                                    {"name": "San Francisco Public Utilities", "value": 1800},
+                                    {"name": "South Africa police", "value": 160},
+                                    {"name": "Washington State court system", "value": 1600}                          
+                                ]
+                        },
+                        {
+                            "name": "military",
+                            "children": 
+                                [
+                                    {"name": "Stratfor", "value": 9350},
+                                    {"name": "US Army", "value": 500}
+                                ]
+                        },
+                        {
+                            "name": "tech, retail",
+                            "children": 
+                                [
+                                    {"name": "Apple", "value": 123680}
+                                ]
+                        },
+                        {
+                            "name": "telecomis ",
+                            "children": 
+                                [
+                                    {"name": "KDDI", "value": 40000},
+                                    {"name": "KT Corp", "value": 87000}
+                                ]
+                        },
+                        {
+                            "name": "web ",
+                            "children": 
+                                [
+                                    {"name": "Auction.co.kr", "value": 180000},
+                                    {"name": "Betfair", "value": 23000},
+                                    {"name": "Drupal", "value": 10000},
+                                    {"name": "Evernote", "value": 500000},
+                                    {"name": "Gawker.com", "value": 15000},
+                                    {"name": "Living Social", "value": 500000},
+                                    {"name": "Monster.com", "value": 16000},
+                                    {"name": "Scribd", "value": 5000},
+                                    {"name": "Sony Pictures", "value": 10000},
+                                    {"name": "Twitter", "value": 2500},
+                                    {"name": "Twitter", "value": 620}
+                                ]
+                        },
+                        {
+                            "name": "web, military",
+                            "children": 
+                                [
+                                    {"name": "Militarysingles.com", "value": 200000}
 
-                 
+                                ]
+                        },
+                        {
+                            "name": "gaming",
+                            "children": 
+                                [
+                                    {"name": "Bethesda Game Studios", "value": 2000},
+                                    {"name": "Blizzard", "value": 140000},
+                                    {"name": "Nintendo", "value": 2390},
+                                    {"name": "Sega", "value": 12900},
+                                    {"name": "Sony Online Entertainment", "value": 246000},
+                                    {"name": "Sony PSN", "value": 770000},
+                                    {"name": "UbiSoft", "value": 580000}
+
+                                ]
+                        },
+                        {
+                            "name": "government  healthcare",
+                            "children": 
+                                [
+                                    {"name": "Medicaid", "value": 7800},
+                                    {"name": "Virginia Dept. Of Health", "value": 82570}
+
+                                ]
+                        },
+                        {
+                            "name": "media",
+                            "children": 
+                                [
+                                    {"name": "Washington Post", "value": 12700}
+
+                                ]
+                        },
+                        {
+                            "name": "retail",
+                            "children": 
+                                [
+                                    {"name": "Hannaford Brothers Supermarket", "value": 42000},
+                                    {"name": "Restaurant Depott", "value": 2000},
+                                    {"name": "TK / TJ Maxx", "value": 940000}
+
+                                ]
+                        },
+                        {
+                            "name": "tech ",
+                            "children": 
+                                [
+                                    {"name": "Apple", "value": 2750},
+                                    {"name": "Network", "value": 5730},
+                                    {"name": "Ubuntu", "value": 20000}
+
+                                ]
+                        },
+                        {
+                            "name": "tech web ",
+                            "children": 
+                                [
+                                    {"name": "Yahoo", "value": 245000}
+                                ]
+                        },
+                        {
+                            "name": "web gaming ",
+                            "children": 
+                                [
+                                    {"name": "RockYou!", "value": 320000}
+                                ]
+                        }
+                        
+                    ]
+            }                 
         ]
 }
