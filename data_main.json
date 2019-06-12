@@ -287,12 +287,7 @@
                             "name": "healthcare",
                             "children": 
                                 [
-                                    {"name": "Ankle  foot Center of Tampa Bay", "value": 1560},
-                                    {"name": "Puerto Rico Department of Health", "value": 5150},
-                                    {"name": "Seacoast Radiology PA", "value": 2320},
-                                    {"name": "Southern California Medical-Legal", "value": 3000},
-                                    {"name": "Virginia Prescription Monitoring Program", "value": 532}
-                                    
+                                    {"name": "South Carolina Government", "value": 2280}                                  
                                 ]
                         },
                         {
